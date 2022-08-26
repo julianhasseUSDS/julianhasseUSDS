@@ -2,7 +2,7 @@
 
 ![Name](https://img.shields.io/badge/JULIAN%20HASSE-UX%20DESIGNER-red)
 ![Country](https://img.shields.io/badge/North%20Carolina-USA-blue)
-![Twitter Follow](https://img.shields.io/twitter/follow/julianhasse?style=social)
+
 
 ###
 - 🔭 I’m a Design Expert with U.S. Digital Services
