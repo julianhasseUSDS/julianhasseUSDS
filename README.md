@@ -3,7 +3,7 @@
 
 
 ###
-- 👋 Hi, I’m Julian Hasse, Design Expert with U.S. Digital Services ![https://github.com/julianhasseUSDS/julianhasseUSDS/blob/main/usds-logo.png]
+- 👋 Hi, I’m Julian Hasse, Design Expert with U.S. Digital Services ![](https://github.com/julianhasseUSDS/julianhasseUSDS/blob/main/usds-logo.png) 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📪 julian.hasse@omb.eop.gov
 
