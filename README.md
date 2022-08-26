@@ -1,5 +1,3 @@
-### Hello!
-
 ![Name](https://img.shields.io/badge/JULIAN%20HASSE-UX%20DESIGNER-red)
 ![Country](https://img.shields.io/badge/North%20Carolina-USA-blue)
 
